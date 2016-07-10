@@ -1,0 +1,2 @@
+Version 1
+There is a fault with the TX and RX pins. They need to be swopped around.
